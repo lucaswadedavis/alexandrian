@@ -1,0 +1,23 @@
+{
+  "name": "alexandrian",
+  "version": "1.0.0",
+  "description": "Sends Things to Github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lucaswadedavis/alexandrian.git"
+  },
+  "author": "Luke Davis <lucaswadedavis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucaswadedavis/alexandrian/issues"
+  },
+  "homepage": "https://github.com/lucaswadedavis/alexandrian#readme",
+  "dependencies": {
+    "github": "^9.2.0",
+    "html-md": "^3.0.2"
+  }
+}
